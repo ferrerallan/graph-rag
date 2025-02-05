@@ -85,6 +85,3 @@ print(result["final_response"])    # Refined response
 - `k`: Number of initial documents to retrieve (default: 3)
 - `graph_depth`: Depth of graph traversal for context (default: 1)
 
-## License
-
-MIT License
